@@ -1,0 +1,47 @@
+
+
+}
+h1{
+
+    color: aqua;
+    font-family: cursive;
+    font-size: large;
+    font-weight: bold;
+}
+.colum{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   }
+   .pass1{
+    border-color: aqua;
+    margin-bottom: 15px;
+}
+.pass2{
+    border-color: aqua;
+    margin-bottom: 15px;
+}
+.pass2{
+    border-color: aqua;
+    margin-bottom: 15px;
+}
+p{
+    border-bottom: 15px;
+    margin-left: -56px;
+}
+em{
+    color: turquoise;
+}
+.container{
+    border: solid black;
+    width: 355px;
+    height: 211px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 511px;
+    margin-top: 122px;
+}
+.legin{
+    background-color: aquamarine;
+}
